@@ -1,4 +1,4 @@
-# llama_11b_vision_preview_demo
+# llama3.2_11b_vision_preview
 llama-3.2-11b-vision-preview using by integrating it with ChatGroq for advanced visual model applications. Showcased capabilities through practical implementation and testing.
 
 Llama 3.2-Vision is intended for commercial and research use. 
